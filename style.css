@@ -52,6 +52,7 @@
 
 .btn:hover {
   background-color: var(--secondary-color-dark);
+   transition: 0.3s;
 }
 
 img {
@@ -217,6 +218,7 @@ nav {
 .explore__nav span:hover {
   color: var(--secondary-color);
   border-color: var(--secondary-color);
+   transition: 0.3s;
 }
 
 .explore__grid {
@@ -237,6 +239,7 @@ nav {
 .explore__card:hover {
   background-color: var(--primary-color-extra-light);
   border-color: var(--secondary-color);
+   transition: 0.3s;
 }
 
 .explore__card span {
@@ -268,6 +271,7 @@ nav {
 
 .explore__card a:hover {
   color: var(--secondary-color);
+   transition: 0.3s;
 }
 
 .class__container {
@@ -378,6 +382,7 @@ nav {
 .price__card:hover {
   background-color: var(--primary-color-extra-light);
   border-color: var(--secondary-color);
+   transition: 0.3s;
 }
 
 .price__card__content {
@@ -421,6 +426,7 @@ nav {
 .price__btn:hover {
   color: var(--white);
   background-color: var(--secondary-color);
+   transition: 0.3s;
 }
 
 .review {
@@ -535,6 +541,7 @@ nav {
 .footer__socials a:hover {
   color: var(--white);
   background-color: var(--secondary-color);
+   transition: 0.3s;
 }
 
 .footer__col h4 {
@@ -553,6 +560,7 @@ nav {
 
 .footer__col > a:hover {
   color: var(--secondary-color);
+   transition: 0.3s;
 }
 
 .footer__bar {
