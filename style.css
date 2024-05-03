@@ -52,7 +52,7 @@
 
 .btn:hover {
   background-color: var(--secondary-color-dark);
-   transition: 0.3s;
+   transition: 0.3s ease-in-out;
 }
 
 img {
@@ -271,7 +271,7 @@ nav {
 
 .explore__card a:hover {
   color: var(--secondary-color);
-   transition: 0.3s;
+   transition: 0.3s ease-in-out;
 }
 
 .class__container {
@@ -382,7 +382,7 @@ nav {
 .price__card:hover {
   background-color: var(--primary-color-extra-light);
   border-color: var(--secondary-color);
-   transition: 0.3s;
+  transition: 0.3s ease-in-out;
 }
 
 .price__card__content {
@@ -426,7 +426,7 @@ nav {
 .price__btn:hover {
   color: var(--white);
   background-color: var(--secondary-color);
-   transition: 0.3s;
+  transition: 0.3s ease-in-out;
 }
 
 .review {
@@ -541,7 +541,7 @@ nav {
 .footer__socials a:hover {
   color: var(--white);
   background-color: var(--secondary-color);
-   transition: 0.3s;
+  transition: 0.3s ease-in-out;
 }
 
 .footer__col h4 {
@@ -560,7 +560,7 @@ nav {
 
 .footer__col > a:hover {
   color: var(--secondary-color);
-   transition: 0.3s;
+  transition: 0.3s ease-in-out;
 }
 
 .footer__bar {
